@@ -1,10 +1,10 @@
 .buttonClass {
-  width: 350px;
+  width: 300px;
   background-color: hsl(0, 0%, 20%);
   border-radius: 6px;
   font-weight: bold;
-  padding: 4px;
-  margin: 6px;
+  padding: 8px;
+  margin: 12px;
   cursor: pointer;
 }
 
