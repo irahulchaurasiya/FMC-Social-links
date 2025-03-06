@@ -3,7 +3,7 @@ import "./App.css";
 const App = () => {
   return (
     <div className="bg-[hsl(0,0%,8%)] h-[100vh] w-[100vw] flex items-center justify-center">
-      <div className="rounded-lg text-[hsl(0,0%,100%)] bg-[hsl(0,0%,12%)] w-[300px] h-[500px] flex flex-col items-center justify-center">
+      <div className="rounded-lg text-[hsl(0,0%,100%)] bg-[hsl(0,0%,12%)] w-[400px] h-[500px] flex flex-col items-center justify-center">
         <img
           className="rounded-full w-[100px] my-4"
           src=" /images/avatar-jessica.jpeg"
